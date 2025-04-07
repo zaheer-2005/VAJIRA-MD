@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/VajiraTechOfficial/">
-    <img src="https://i.ibb.co/dTCVJJb/temp-image.jpg"  width="700px">
+    <img src="https://i.ibb.co/zdY1zjg/IMG-20250407-WA0036.jpg"  width="700px">
 </a>
 <hr>
 
