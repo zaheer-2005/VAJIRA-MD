@@ -2,7 +2,7 @@
 
   "name":"VAJIRA-MD",
   "version":"2.1.2",
-  "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
   "main":"index.js",
   "scripts":{
     "start":"pm2 start index.js --deep-monitoring --attach --name vajira",
