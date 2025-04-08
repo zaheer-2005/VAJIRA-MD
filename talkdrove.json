@@ -1,0 +1,20 @@
+{
+  "bot-name": "VAJIRA-MD",
+  "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://i.ibb.co/zdY1zjg/IMG-20250407-WA0036.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://github.com/MXN-MOVIE/VAJIRA-MD",
+  "owner-verification": "vajirarathnayaka891@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your session id here.",
+      "value": "",
+      "required": true
+    },
+"MODE": {
+      "description": "Put button to activate button mode or put nonbutton to activate number reply mode.",
+      "value": "button",
+      "required": true
+    }
+  }
+}
