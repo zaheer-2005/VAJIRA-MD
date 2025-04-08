@@ -111,7 +111,7 @@
 ## <a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
 </p>
  
-## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/VajiraTechOfficial/VAJIRA-MD-)
+## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/[github/MXN-MOVIE/VAJIRA-MD)
 
 
 
