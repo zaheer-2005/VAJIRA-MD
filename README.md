@@ -96,7 +96,7 @@
 
 ## CHOOSE DEPLOYMENT METHOD 👇
 
-[![Talkdrove](https://s55-hzfi.freeconvert.com/task/67f815cf5dd8915b62f0efb3/images%20(2).svg)](https://host.talkdrove.com/share-bot/54)
+[![Talkdrove](https://raw.githubusercontent.com/MXN-MOVIE/IniNathan.github.io/refs/heads/master/1000411710.svg)](https://host.talkdrove.com/share-bot/54)
 
 
  
