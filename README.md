@@ -96,7 +96,7 @@
 
 ## CHOOSE DEPLOYMENT METHOD 👇
 
-[![Talkdrove](https://picsvg.com/svg/9AsOMq01.svg)](https://host.talkdrove.com/share-bot/54)
+[![Talkdrove](https://s55-hzfi.freeconvert.com/task/67f815cf5dd8915b62f0efb3/images%20(2).svg)](https://host.talkdrove.com/share-bot/54)
 
 
  
