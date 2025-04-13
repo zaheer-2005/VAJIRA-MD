@@ -17,7 +17,7 @@
 
       "MODE": {
         "description": "To change button mode put button. or to change number reply mode put nonbutton",
-        "value":"button",
+        "value":"nonbutton",
         "required": false
         
       }
