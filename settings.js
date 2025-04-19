@@ -5,8 +5,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 
-module.exports = {VAJIRA-MD=xGV31ZZb#AcuwZTIG38JWXTavMKNJPmrnD7_f56NMKBcNuXHP-tM
-SESSION_ID: process.env.SESSION_ID === undefined ? 'VAJIRA-MD=eFdzCSbY#dye5BjG3uRjo81YZzxltr2CsrQY45oZLC4Txzq3zBtI' : process.env.SESSION_ID,
+module.exports = {
+SESSION_ID: process.env.SESSION_ID === undefined ? 'VAJIRA-MD=xGV31ZZb#AcuwZTIG38JWXTavMKNJPmrnD7_f56NMKBcNuXHP-tM' : process.env.SESSION_ID,
 OWNER_NUMBER: +94 78 894 5581.env.OWNER_NUMBER === undefined ? '' : process.env.OWNER_NUMBER,
 N_JID: process.env.N_JID=== undefined ? '‌': process.env.N_JID,    
 PREFIX: process.env.PREFIX || '.' ,
